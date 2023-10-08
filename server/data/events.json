@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Hiking with Interns",
+        "date": "2022-06-01",
+        "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
+        "state_name": "California",
+        "location": "Yosemite National Park",
+        "image_url": "https://i.imgur.com/wqrhX0Y.jpeg"
+    },
+    {
+        "title": "Intern Party",
+        "date": "2022-06-15",
+        "description": "Come party with other interns in the area! We'll have music, food, and drinks. Don't miss out on the fun!",
+        "state_name": "California",
+        "location": "San Francisco",
+        "image_url": "https://i.imgur.com/RDtNu.gif"
+    },
+    {
+        "title": "Swimming with Interns",
+        "date": "2022-07-01",
+        "description": "Cool off with other interns at the local swimming pool. We'll have games and snacks for everyone to enjoy!",
+        "state_name": "California",
+        "location": "Los Angeles",
+        "image_url": "https://i.imgur.com/b05fZoQ.jpeg"
+    },
+    {
+        "title": "Soccer with Interns",
+        "date": "2022-07-15",
+        "description": "Join us for a friendly game of soccer with other interns in the area. All skill levels welcome!",
+        "state_name": "California",
+        "location": "San Diego",
+        "image_url": "https://i.imgur.com/UgdEfHU.jpeg"
+    },
+    {
+        "title": "Intern Get Together",
+        "date": "2022-08-01",
+        "description": "Come hang out with other interns in the area. We'll have snacks and games for everyone to enjoy!",
+        "state_name": "California",
+        "location": "Sacramento",
+        "image_url": "https://i.imgur.com/2RzAbhl.jpeg"
+    },
+    {
+        "title": "Hiking at Mount Si",
+        "date": "2023-12-01",
+        "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
+        "state_name": "Washington",
+        "location": "Mount Si",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Intern Party",
+        "date": "2023-12-15",
+        "description": "Come party with other interns in the area! We'll have music, food, and drinks. Don't miss out on the fun!",
+        "state_name": "Washington",
+        "location": "Seattle",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Swimming with Interns",
+        "date": "2024-01-01",
+        "description": "Cool off with other interns at the local swimming pool. We'll have games and snacks for everyone to enjoy!",
+        "state_name": "Washington",
+        "location": "Tacoma",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Soccer with Interns",
+        "date": "2024-01-15",
+        "description": "Join us for a friendly game of soccer with other interns in the area. All skill levels welcome!",
+        "state_name": "Washington",
+        "location": "Olympia",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Intern Get Together",
+        "date": "2024-02-01",
+        "description": "Come hang out with other interns in the area. We'll have snacks and games for everyone to enjoy!",
+        "state_name": "Washington",
+        "location": "Spokane",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Hiking at Mount Si",
+        "date": "2025-12-01",
+        "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
+        "state_name": "Washington",
+        "location": "Montgomery",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Intern Party",
+        "date": "2025-12-15",
+        "description": "Come party with other interns in the area! We'll have music, food, and drinks. Don't miss out on the fun!",
+        "state_name": "Alabama",
+        "location": "Birmingham",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Swimming with Interns",
+        "date": "2026-01-01",
+        "description": "Cool off with other interns at the local swimming pool. We'll have games and snacks for everyone to enjoy!",
+        "state_name": "Alabama",
+        "location": "Mobile",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Soccer with Interns",
+        "date": "2026-01-15",
+        "description": "Join us for a friendly game of soccer with other interns in the area. All skill levels welcome!",
+        "state_name": "Alabama",
+        "location": "Huntsville",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    },
+    {
+        "title": "Intern Get Together",
+        "date": "2026-02-01",
+        "description": "Come hang out with other interns in the area. We'll have snacks and games for everyone to enjoy!",
+        "state_name": "Alabama",
+        "location": "Montgomery",
+        "image_url": "https://imgur.com/B5Q8xKi"
+    }
+]
