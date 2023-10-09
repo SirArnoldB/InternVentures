@@ -1,18 +1,25 @@
 import { Typography, Button, Toolbar, AppBar } from "@mui/material";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <header>
-      <AppBar position="static">
-        <Toolbar>
-          <Typography variant="h6" component="div">
-            InternVentures
-          </Typography>
+    <AppBar
+      position="static"
+      sx={{
+        display: "flex",
+        justifyContent: "space-between",
+        alignItems: "center",
+      }}
+    >
+      <Toolbar>
+        <Typography variant="h6" component="div">
+          InternVentures
+        </Typography>
+        <Link to="/">
           <Button color="inherit">Home</Button>
-          <Button color="inherit">Explore</Button>
-        </Toolbar>
-      </AppBar>
-    </header>
+        </Link>
+      </Toolbar>
+    </AppBar>
   );
 };
 

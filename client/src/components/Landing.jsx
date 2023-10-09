@@ -1,8 +1,9 @@
 import { Typography } from "@mui/material";
+import "../css/Landing.css";
 
 const Landing = () => {
   return (
-    <div>
+    <div className="landing">
       <Typography variant="h4" gutterBottom>
         Welcome to InternVentures!
       </Typography>

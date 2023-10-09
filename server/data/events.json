@@ -5,7 +5,7 @@
         "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
         "state_name": "California",
         "location": "Yosemite National Park",
-        "image_url": "https://i.imgur.com/wqrhX0Y.jpeg"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Intern Party",
@@ -45,7 +45,7 @@
         "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
         "state_name": "Washington",
         "location": "Mount Si",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Intern Party",
@@ -53,7 +53,7 @@
         "description": "Come party with other interns in the area! We'll have music, food, and drinks. Don't miss out on the fun!",
         "state_name": "Washington",
         "location": "Seattle",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Swimming with Interns",
@@ -61,7 +61,7 @@
         "description": "Cool off with other interns at the local swimming pool. We'll have games and snacks for everyone to enjoy!",
         "state_name": "Washington",
         "location": "Tacoma",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Soccer with Interns",
@@ -69,7 +69,7 @@
         "description": "Join us for a friendly game of soccer with other interns in the area. All skill levels welcome!",
         "state_name": "Washington",
         "location": "Olympia",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Intern Get Together",
@@ -77,7 +77,7 @@
         "description": "Come hang out with other interns in the area. We'll have snacks and games for everyone to enjoy!",
         "state_name": "Washington",
         "location": "Spokane",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Hiking at Mount Si",
@@ -85,7 +85,7 @@
         "description": "Join us for a fun hike with other interns in the area. Meet new people and enjoy the beautiful scenery!",
         "state_name": "Washington",
         "location": "Montgomery",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Intern Party",
@@ -93,7 +93,7 @@
         "description": "Come party with other interns in the area! We'll have music, food, and drinks. Don't miss out on the fun!",
         "state_name": "Alabama",
         "location": "Birmingham",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Swimming with Interns",
@@ -101,7 +101,7 @@
         "description": "Cool off with other interns at the local swimming pool. We'll have games and snacks for everyone to enjoy!",
         "state_name": "Alabama",
         "location": "Mobile",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Soccer with Interns",
@@ -109,7 +109,7 @@
         "description": "Join us for a friendly game of soccer with other interns in the area. All skill levels welcome!",
         "state_name": "Alabama",
         "location": "Huntsville",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     },
     {
         "title": "Intern Get Together",
@@ -117,6 +117,6 @@
         "description": "Come hang out with other interns in the area. We'll have snacks and games for everyone to enjoy!",
         "state_name": "Alabama",
         "location": "Montgomery",
-        "image_url": "https://imgur.com/B5Q8xKi"
+        "image_url": "https://i.imgur.com/B5Q8xKi.png"
     }
 ]

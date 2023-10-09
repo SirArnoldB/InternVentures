@@ -1,13 +1,4 @@
-.events,
-.states {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    row-gap: 2rem;
-}
-
-.event-card,
-.states-card {
+.event-details {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
